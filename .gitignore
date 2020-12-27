@@ -1,0 +1,2 @@
+#忽略node-modules文件里面的文件
+/node_modules

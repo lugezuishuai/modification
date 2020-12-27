@@ -8,9 +8,7 @@
     "findCommon": "node ./src/findCommon/index.js",
     "rewrite": "node ./src/rewrite/index.js",
     "rollBack": "node ./src/rewrite/rollBack.js",
-    "hashMap": "node ./src/rewrite/hashMap.js",
-    "project": "node ./src/findCommon/get_project_urls.js",
-    "file": "node ./src/findCommon/get_file_urls.js"
+    "hashMap": "node ./src/rewrite/hashMap.js"
   },
   "author": "",
   "license": "ISC"
