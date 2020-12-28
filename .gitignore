@@ -1,2 +1,4 @@
 #忽略node-modules文件里面的文件
 /node_modules
+#忽略.DS_Store文件
+.DS_Store
